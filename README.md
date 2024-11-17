@@ -1,2 +1,2 @@
-# bot-template-nodejs
-Bot template repo - NodeJS
+# bot
+This is an empty bot template repository.
